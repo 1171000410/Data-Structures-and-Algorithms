@@ -1,0 +1,6 @@
+名称	 品牌	 价格	 数量
+phone	 huawei	 2000.000000	 35
+clothes	 supreme	 900.000000	 8
+shoes	 lining	 800.000000	 10
+fan	 haier	 500.000000	 5
+

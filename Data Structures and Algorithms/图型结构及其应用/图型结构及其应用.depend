@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543844712 source:e:\code\图型结构及其应用\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

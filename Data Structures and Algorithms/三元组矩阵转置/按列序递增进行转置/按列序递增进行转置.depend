@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542007472 source:e:\code\按列序递增进行转置\main.c
+	<stdio.h>
+	<stdlib.h>
+

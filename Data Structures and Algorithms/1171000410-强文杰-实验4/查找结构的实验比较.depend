@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544932098 source:e:\code\查找结构的实验比较\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

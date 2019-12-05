@@ -1,0 +1,12 @@
+邻接矩阵深度遍历(递归)结果为:  a c b e d g f h i k l m n o j 
+邻接矩阵深度遍历(非递归)结果为:  a c b e d g f h i k l m n o j 
+邻接矩阵广度遍历结果为:  a c d b g e f h j i k m n l o 
+邻接表深度遍历(递归)结果为:  a d g b e c f j m n o h i k l 
+邻接表深度遍历(非递归)结果为:  a d g b e c f j m n o h i k l 
+邻接表广度遍历结果为:  a d g b e c f j m n o h i k l 
+邻接矩阵深度遍历(递归)结果为:  a c b e d g f h i k l m n o j 
+邻接矩阵深度遍历(非递归)结果为:  a c b e d g f h i k l m n o j 
+邻接矩阵广度遍历结果为:  a c d b g e f h j i k m n l o 
+邻接表深度遍历(递归)结果为:  a d g b e c f j m n o h i k l 
+邻接表深度遍历(非递归)结果为:  a d g b e c f j m n o h i k l 
+邻接表广度遍历结果为:  a d g b e c f j m n o h i k l 
